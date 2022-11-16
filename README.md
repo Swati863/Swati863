@@ -18,7 +18,7 @@
 ### :hammer_and_wrench: Languages and Tools :
 
 
-<img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-best-web-design-psd-html-cms-development-ecommerce-6.png" width="128" height="100" /><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png?20220125121207" width="80" height="80"/><img src="https://brandslogos.com/wp-content/uploads/images/redux-logo.png" width="80" height="80"/><img src="https://cdn.iconscout.com/icon/free/png-64/mongodb-5-1175140.png" width="80" height="80"/><img src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/logo/logomark-colored.svg" width="80" height="80"/><img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" width="80" height="80"/>  <img src="https://seeklogo.com/images/E/express-logo-E9DA5D0AF7-seeklogo.com.png" width="120" height="80"/>
+<img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-best-web-design-psd-html-cms-development-ecommerce-6.png" width="128" height="100" /><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png?20220125121207" width="80" height="80"/><img src="https://brandslogos.com/wp-content/uploads/images/redux-logo.png" width="80" height="80"/><img src="https://cdn.iconscout.com/icon/free/png-64/mongodb-5-1175140.png" width="80" height="80"/><img src="https://pbs.twimg.com/profile_images/1244925541448286208/rzylUjaf_400x400.jpg" width="80" height="80"/><img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" width="80" height="80"/>  <img src="https://seeklogo.com/images/E/express-logo-E9DA5D0AF7-seeklogo.com.png" width="120" height="80"/>
 
 
 ## Social
